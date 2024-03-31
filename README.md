@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **circuits-maximus/circuits-maximus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,12 +16,9 @@ Here are some ideas to get you started:
 
 #### A Student by day ☼ and an AI Community Contributor by night ☾
 
-Full-Stack Developer at [Medicare](https://medicare.pt?ref=github-caneco);<br>
-Host/Organizing [Laracon EU](https://laracon.eu?ref=github-caneco);<br>
-
-- ⚙️ I use daily: `.java`, `.python`, `.pandas`, `.ml`, `.dl`, `.psd`, `.ai`
+- ⚙️ I use daily: `.java`, `.python`, `.pandas`, `.pytorch`, `.tensorflow`, `.ai`
 - 🌍 I'm mostly active within the **Laravel Community**
-- 💬 `ping` me about **design**, **branding**, **laravel**, **development**, **design thinking**
+- 💬 `ping` me about **ai**, **ml**, **deep learning**, **opencv**, **cpu design**
 
 <div> <a href="https://github.com/circuits-maximus" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 </div>
