@@ -16,18 +16,14 @@ Here are some ideas to get you started:
 -->
 ### Hello there 👋
 
-#### A Full-Stack Developer by day ☼ and a Laravel Community Contributor by night ☾
+#### A Student by day ☼ and an AI Community Contributor by night ☾
 
 Full-Stack Developer at [Medicare](https://medicare.pt?ref=github-caneco);<br>
 Host/Organizing [Laracon EU](https://laracon.eu?ref=github-caneco);<br>
 
-- ⚙️ I use daily: `.php`, `.js`, `.html`, `.css`, `.svg`, `.psd`, `.ai`
+- ⚙️ I use daily: `.java`, `.python`, `.pandas`, `.ml`, `.dl`, `.psd`, `.ai`
 - 🌍 I'm mostly active within the **Laravel Community**
-- 💅 Designed: @pestphp, [NorthMeetsSouth.audio](https://www.northmeetssouth.audio), [ThenPing.me](https://thenping.me), [HappydDev.fm](https://www.happydev.fm), etc…
 - 💬 `ping` me about **design**, **branding**, **laravel**, **development**, **design thinking**
-- 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=circuits-maximus&label=Profile%20views&color=0e75b6&style=flat" alt="circuits-maximus" /> </p>
-
 
 <div> <a href="https://github.com/circuits-maximus" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 </div>
