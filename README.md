@@ -19,9 +19,7 @@ Here are some ideas to get you started:
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=circuits-maximus&theme=" alt="circuits-maximus" /></a> </p>
 
 <div> <a href="https://github.com/circuits-maximus" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-</div><h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.leetcode.com/circuits-maxius" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/leet-code.svg" alt="circuits-maxius" height="30" width="40" /></a><a href="https://kaggle.com/circuits-maxius" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/kaggle.svg" alt="circuits-maxius" height="30" width="40" /></a></p>
+</div>
 
 <h3 align="left">Stars</h3>
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=circuits-maximus&langs_count=8&theme=default" alt=circuits-maximus />
