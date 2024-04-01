@@ -11,13 +11,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 🌍 I'm mostly active within the **OpenCV Community**
 -->
 ### Hello there 👋
 
 #### A Student by day ☼ and a Community Contributor by night ☾
 
 - ⚙️ I use daily: `.java`, `.python`, `.pandas`, `.pytorch`, `.tensorflow`
-<!-- - 🌍 I'm mostly active within the **OpenCV Community** -->
 - 🔭 I'm currently working on building a deep mathematical understanding of **neural networks** & **LLM's**
 - 💬 `ping` me about **ai**, **ml**, **deep learning**, **opencv**, **cpu design**
 
