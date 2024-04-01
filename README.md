@@ -14,10 +14,11 @@ Here are some ideas to get you started:
 -->
 ### Hello there 👋
 
-#### A Student by day ☼ and an OpenCV Community Contributor by night ☾
+#### A Student by day ☼ and a Community Contributor by night ☾
 
-- ⚙️ I use daily: `.java`, `.python`, `.pandas`, `.pytorch`, `.tensorflow`, `.ai`
-- 🌍 I'm mostly active within the **OpenCV Community**
+- ⚙️ I use daily: `.java`, `.python`, `.pandas`, `.pytorch`, `.tensorflow`
+<!-- - 🌍 I'm mostly active within the **OpenCV Community** -->
+- 🔭 I'm currently working on building a deep mathematical understanding of **neural networks** & **LLM's**
 - 💬 `ping` me about **ai**, **ml**, **deep learning**, **opencv**, **cpu design**
 
 <h3 align="left">Stats</h3>
