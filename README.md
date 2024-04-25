@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - ⚙️ I use daily: `.java`, `.python`, `.pandas`, `.pytorch`, `.tensorflow`
 - 🔭 I'm currently working on building a deep mathematical understanding of **neural networks** & **LLM's**
-- 💬 `ping` me about **ai**, **ml**, **ai agents**, **opencv**, **cpu design**, **search engines**, **finance**, **communication systems**
+- 💬 `ping` me about **ml**, **ai agents**, **opencv**, **cpu design**, **search engines**, **finance**, **communication systems**
 
 <h3 align="left">Stats</h3>
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=circuits-maximus&langs_count=8&theme=default" alt=circuits-maximus />
