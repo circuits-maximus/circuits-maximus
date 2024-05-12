@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 - 🌍 I'm mostly active within the **OpenCV Community**
 -->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=circuits-maximus)](https://github.com/anuraghazra/github-readme-stats)
 ### Hello there 👋
 
 #### A Student by day ☼ and a Community Contributor by night ☾
