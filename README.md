@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=circuits-maximus&langs_count=8&theme=default" alt=circuits-maximus />
 -->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=circuits-maximus)](https://github.com/anuraghazra/github-readme-stats)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=circuits-maximus&layout=compact)
 <!--
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=circuits-maximus&show_icons=true&locale=en&theme=" alt="circuits-maximus" /></p>
