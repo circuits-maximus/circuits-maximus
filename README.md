@@ -30,7 +30,9 @@ Here are some ideas to get you started:
 <--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=circuits-maximus&layout=compact)
 -->
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=circuits-maximus)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
 [![Newton's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=circuitsmaximus)](https://github.com/anuraghazra/github-readme-stats)
 
