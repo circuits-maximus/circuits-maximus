@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 #### A Student by day ☼ and a Community Contributor by night ☾
 
-- ⚙️ I use daily: `.java`, `.python`, `.pandas`, `.pytorch`, `.tensorflow`
+- ⚙️ I use daily: `.java`, `.python`, `.sql`, `.pandas`, `.pytorch`, `.tensorflow`
 - 🔭 I'm currently working on building a deep mathematical understanding of **neural networks** & **LLM's**
 - 💬 `ping` me about **ml**, **ai agents**, **opencv**, **cpu design**, **search engines**, **finance**, **communication systems**
 <!--
